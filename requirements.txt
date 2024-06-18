@@ -5,3 +5,8 @@ XlsxWriter==3.0.3
 seaborn==0.12.1
 protobuf==3.20.1
 altair==4.1.0
+gensim==4.3.0
+FuzzyTM==0.4.0
+pycaret==3.3.2
+sktime==0.26.0
+numpy==1.23.5  # Ensure numpy version is compatible with all other packages
