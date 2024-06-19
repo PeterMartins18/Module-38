@@ -9,4 +9,4 @@ gensim==4.3.0
 FuzzyTM==2.0.9
 pycaret==3.3.2
 sktime==0.26.0
-numpy==1.23.5  # Ensure numpy version is compatible with all other packages
+numpy==1.23.5  
