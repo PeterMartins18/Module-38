@@ -1,8 +1,7 @@
 services:
   - type: web
     name: my-streamlit-app
-    env: python
+    env: docker
     region: oregon
-    buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run app.py
-    pythonVersion: 3.10
+    dockerfilePath: Dockerfile
+
