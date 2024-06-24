@@ -3,7 +3,7 @@
 Credit Scoring for Credit Card Application
 
 webrender: https://module-38-5.onrender.com
-
+Video: https://github.com/PeterMartins18/Module-38/blob/main/Screen%20Recording%202024-06-24%20at%2018.31.43.mov
 
 
 
